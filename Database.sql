@@ -4,10 +4,11 @@ GO
 DROP DATABASE HRManagement
 GO
 
-CREATE DATABASE HRManagement
+CREATE DATABASE helloooo
 GO
 
-USE HRManagement
+USE helloooo
+GO
 
 
 CREATE TABLE Candidates
